@@ -1,9 +1,12 @@
 import random
 from textblob import TextBlob
 from textblob.np_extractors import ConllExtractor
+import nltk
 extractor = ConllExtractor()
 
 def main():   
+    nltk.download('conll2000')
+
     print("Hello, I am Marvin, the friendly robot.")
     print("You can end this conversation at any time by typing 'bye'")    
     print("After typing each answer, press 'enter'")
