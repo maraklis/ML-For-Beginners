@@ -14,3 +14,4 @@ pycaret
 gradio==3.44.4 
 fastcore==1.5.27 
 nbdev==2.3.12
+texblob==0.15.3
