@@ -14,4 +14,7 @@ pycaret
 gradio==3.44.4 
 fastcore==1.5.27 
 nbdev==2.3.12
-texblob==0.15.3
+textblob==0.15.3
+opencv==4.6.0
+gym==0.26.1
+pygame==2.2.0
