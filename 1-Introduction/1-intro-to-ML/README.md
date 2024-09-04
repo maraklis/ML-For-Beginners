@@ -152,7 +152,3 @@ To learn more about how you can work with ML algorithms in the cloud, you can fo
 You can also take a [Learning Path](https://docs.microsoft.com/learn/modules/introduction-to-machine-learning/?WT.mc_id=academic-15963-cxa) about the basics of ML.
 
 ---
-
-# Assignment
-
-[Get up and running](assignment.md)
