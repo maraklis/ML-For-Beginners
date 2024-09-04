@@ -2,16 +2,13 @@
 
 ## [Pre-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/1/)
 
-
-[![ML for beginners - Introduction to Machine Learning for Beginners](https://camo.githubusercontent.com/136c13abf631b72f792dbe60bbe7f937ea4e618d2003a88fa1b06cb5c648e771/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f366d53785f4b4a786348492f302e6a7067)](https://youtu.be/6mSx_KJxcHI "ML for beginners - Introduction to Machine Learning for Beginners")
-
+[![Watch the video](https://img.youtube.com/vi/)](https://www.youtube.com/watch?v=6mSx_KJxcHI)
 > 🎥 Click the image above for a short video working through this lesson.
 
 ---
 
-Welcome to this course on classical machine learning! Whether you're completely new to this topic, or an experienced ML practitioner looking to brush up on an area, we're happy to have you join us! Your course organizers are [Cumhur Erkut](https://cerkut.github.io/), [Henrique G Debarba](mailto:hgd@create.aau.dk) and [George Palamas]()
-
-We want to create a launching spot for your ML study, respond to, and incorporate your [feedback](https://github.com/SMC-AAU-CPH/ML-For-Beginners/discussions).
+Welcome to this course on classical machine learning! Whether you're completely new to this topic, or an experienced ML practitioner looking to brush up on an area, we're happy to have you join us! Your course organizer is [Cumhur Erkut](https://cerkut.github.io/), but in 2024 we won't use this repository, except the introduction workshop. You can still 
+respond to, and incorporate your [feedback](https://github.com/SMC-AAU-CPH/ML-For-Beginners/discussions).
 
 [![Introduction to ML](https://img.youtube.com/vi/h0e2HAPTGF4/0.jpg)](https://youtu.be/h0e2HAPTGF4 "Introduction to ML")
 
