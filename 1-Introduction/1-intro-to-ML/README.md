@@ -2,13 +2,14 @@
 
 ## [Pre-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/1/)
 
-[![Watch the video](https://img.youtube.com/vi/)](https://www.youtube.com/watch?v=6mSx_KJxcHI)
+[![Watch the video](https://img.youtube.com/vi/6mSx_KJxcHI/0.jpg)](https://www.youtube.com/watch?v=6mSx_KJxcHI)
 > 🎥 Click the image above for a short video working through this lesson.
 
 ---
 
-Welcome to this course on classical machine learning! Whether you're completely new to this topic, or an experienced ML practitioner looking to brush up on an area, we're happy to have you join us! Your course organizer is [Cumhur Erkut](https://cerkut.github.io/), but in 2024 we won't use this repository, except the introduction workshop. You can still 
-respond to, and incorporate your [feedback](https://github.com/SMC-AAU-CPH/ML-For-Beginners/discussions).
+Welcome to this course on classical machine learning! Whether you're completely new to this topic, or an experienced ML practitioner looking to brush up on an area, we're happy to have you join us! Your course organizer is [Cumhur Erkut](https://cerkut.github.io/), but in 2025 we won't use this repository, except the introduction workshop. This means **no installation, forking this repo, or familiarity with scikit-learn is needed**. 
+
+You can still respond to, and incorporate your [feedback](https://github.com/SMC-AAU-CPH/ML-For-Beginners/discussions).
 
 [![Introduction to ML](https://img.youtube.com/vi/h0e2HAPTGF4/0.jpg)](https://youtu.be/h0e2HAPTGF4 "Introduction to ML")
 
