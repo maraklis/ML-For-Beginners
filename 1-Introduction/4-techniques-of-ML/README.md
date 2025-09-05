@@ -7,7 +7,7 @@ The process of building, using, and maintaining machine learning models and the 
 
 ## [Pre-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/7/)
 
-[![ML for beginners - Techniques of Machine Learning](https://camo.githubusercontent.com/b5ebd985550782f4bfd297c5354ab4959b0c05c4a41e95168cab5c08c2836398/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f344e474d3055325a5348552f302e6a7067)](https://youtu.be/4NGM0U2ZSHU "ML for beginners - Techniques of Machine Learning")
+[![ML for beginners - Techniques of Machine Learning](https://img.youtube.com/vi/4NGM0U2ZSHU/hqdefault.jpg)](https://youtu.be/4NGM0U2ZSHU)]
 
 > 🎥 Click the image above for a short video working through this lesson (4:06).
 
