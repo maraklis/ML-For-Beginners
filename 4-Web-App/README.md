@@ -4,8 +4,6 @@ In this section of the curriculum, you will be introduced to an applied ML topic
 
 ![UFO Parking](images/ufo.jpg)
 
-Photo by `<a href="https://unsplash.com/@mdherren?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">`Michael Herren`</a>` on `<a href="https://unsplash.com/s/photos/ufo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">`Unsplash`</a>`
-
 ## Lessons
 
 1. [Build a Web App](1-Web-App/README.md)
