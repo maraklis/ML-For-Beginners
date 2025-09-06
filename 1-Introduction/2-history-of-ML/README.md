@@ -4,7 +4,7 @@
 
 > Sketchnote by [Tomomi Imura](https://www.twitter.com/girlie_mac)
 
-## [Pre-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/3/)
+## [Pre-lecture quiz](https://ff-quizzes.netlify.app/en/ml/quiz/3/)
 
 [![ML for beginners - History of Machine Learning](https://camo.githubusercontent.com/9b23442d3976fa03bf4b798b3e4e0da7c3652b7484c7753553e6c159f5eb32c0/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f4e3677784d34775a3756302f302e6a7067)](https://youtu.be/N6wxM4wZ7V0 "ML for beginners - History of Machine Learning")
 
@@ -149,7 +149,7 @@ It remains to be seen what the future holds, but it is important to understand t
 
 Dig into one of these historical moments and learn more about the people behind them. There are fascinating characters, and no scientific discovery was ever created in a cultural vacuum. What do you discover?
 
-## [Post-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/4/)
+## [Post-lecture quiz](https://ff-quizzes.netlify.app/en/ml/quiz/4/)
 
 ---
 

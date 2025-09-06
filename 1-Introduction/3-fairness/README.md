@@ -4,7 +4,7 @@
 
 > Sketchnote by [Tomomi Imura](https://www.twitter.com/girlie_mac)
 
-## [Pre-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/5/)
+## [Pre-lecture quiz](https://ff-quizzes.netlify.app/en/ml/quiz/5/)
 
 ## Introduction
 
@@ -116,7 +116,7 @@ To prevent biases from being introduced in the first place, we should:
 
 Think about real-life scenarios where unfairness is evident in model-building and usage. What else should we consider?
 
-## [Post-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/6/)
+## [Post-lecture quiz](https://ff-quizzes.netlify.app/en/ml/quiz/6/)
 
 ## Review & Self Study
 
