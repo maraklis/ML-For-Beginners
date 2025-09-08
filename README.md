@@ -17,6 +17,7 @@ Codespaces is **available for free to students** as part of the GitHub Student D
 **Safer:** Complete the exercises on your own or with a group on **[Google Colab](https://colab.research.google.com/github/SMC-AAU-CPH/ML-For-Beginners/blob/main/ "Repo on Google Colab")**.
 
 **Safest:** *Fork* the entire repo and complete the exercises on your own or with a group locally on VS Code.
+*Recommendation*: use [uv](https://docs.astral.sh/uv/ "uv docs") for package / dependency / tool management.
 
 In any case
 
