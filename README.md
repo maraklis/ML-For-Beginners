@@ -16,8 +16,37 @@ Codespaces is **available for free to students** as part of the GitHub Student D
 
 **Safer:** Complete the exercises on your own or with a group on **[Google Colab](https://colab.research.google.com/github/SMC-AAU-CPH/ML-For-Beginners/blob/main/ "Repo on Google Colab")**.
 
-**Safest:** *Fork* the entire repo and complete the exercises on your own or with a group locally on VS Code.
-*Recommendation*: use [uv](https://docs.astral.sh/uv/ "uv docs") for package / dependency / tool management. We now provide a [pyproject.toml ](./pyproject.toml)to get you started
+**Safest:** *Fork* or clone (with --depth=1) the entire repo and complete the exercises on your own or with a group locally on VS Code.
+
+```
+git clone --depth=1 https://github.com/SMC-AAU-CPH/ML-For-Beginners.git
+cd ML-For-Beginners
+```
+
+  *Recommendation*: use [uv](https://docs.astral.sh/uv/ "uv docs") for package / dependency / tool management. We now provide a [pyproject.toml ](./pyproject.toml)to get you started:
+
+   **On macOS/Linux (via shell):**
+
+```
+curl -LsSf https://astral.sh/uv/install.sh | sh
+
+```
+
+   **On Windows (via PowerShell as Administrator):**
+
+```
+irm https://astral.sh/uv/install.ps1 | iex
+
+```
+Then, assuming you have VS Studio Code (or any other IDE) installed,
+
+```
+uv sync
+code . 
+```
+
+Select from any notebook.ipynb the uv kernel (Select-kernel/PythonEnvironments/ml-for-beginners, usually starred). You are good to code.
+
 
 In any case
 
@@ -27,7 +56,7 @@ In any case
 - Take the post-lecture quiz.
 - Complete the challenge.
 - Complete the assignment.
-- Submit it to Moodle.
+- If marked as MandatoryAssignment, submit it to Moodle.
 
 > For further study, we recommend following the link to the [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/k7o7tg1gp306q4?WT.mc_id=academic-15963-cxa) modules and learning paths.
 
