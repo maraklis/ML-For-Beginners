@@ -9,8 +9,9 @@ In this section of the curriculum, you will be introduced to one of the most wid
 In these lessons we'll learn the basics of NLP by building small conversational bots to learn how machine learning aids in making these conversations more and more 'smart'. You'll travel back in time, chatting with Elizabeth Bennett and Mr. Darcy from Jane Austen's classic novel, **Pride and Prejudice**, published in 1813. Then, you'll further your knowledge by learning about sentiment analysis via hotel reviews in Europe.
 
 ![Pride and Prejudice book and tea](images/p&p.jpg)
-> Photo by <a href="https://unsplash.com/@elaineh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Elaine Howlin</a> on <a href="https://unsplash.com/s/photos/pride-and-prejudice?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
+
+> Photo by [Elaine Howlin](https://unsplash.com/@elaineh) on [Unsplash](https://unsplash.com/s/photos/pride-and-prejudice)
+
 ## Lessons
 
 1. [Introduction to natural language processing](1-Introduction-to-NLP/README.md)
@@ -19,6 +20,6 @@ In these lessons we'll learn the basics of NLP by building small conversational 
 4. [Preparing your data](4-Hotel-Reviews-1/README.md)
 5. [NLTK for Sentiment Analysis](5-Hotel-Reviews-2/README.md)
 
-## Credits 
+## Credits
 
 These natural language processing lessons were written with ☕ by [Stephen Howell](https://twitter.com/Howell_MSFT)

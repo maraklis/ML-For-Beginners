@@ -23,6 +23,7 @@ dependencies = [
     # "textblob",
     # "gym",
     # "pygame",
+    "textblob==0.17.1",
 ]
 
 [dependency-groups]
