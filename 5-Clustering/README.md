@@ -4,7 +4,7 @@ Clustering is a machine learning task where it looks to find objects that resemb
 
 ## Regional topic: clustering models for a Nigerian audience's musical taste 🎧
 
-Nigeria's diverse audience has diverse musical tastes. Using data scraped from Spotify (inspired by [this article](https://towardsdatascience.com/country-wise-visual-analysis-of-music-taste-using-spotify-api-seaborn-in-python-77f5b749b421), let's look at some music popular in Nigeria. This dataset includes data about various songs' 'danceability' score, 'acousticness', loudness, 'speechiness', popularity and energy. It will be interesting to discover patterns in this data!
+Nigeria's diverse audience has diverse musical tastes. Using data scraped from Spotify (inspired by [this article](https://medium.com/data-science/country-wise-visual-analysis-of-music-taste-using-spotify-api-seaborn-in-python-77f5b749b421), let's look at some music popular in Nigeria. This dataset includes data about various songs' 'danceability' score, 'acousticness', loudness, 'speechiness', popularity and energy. It will be interesting to discover patterns in this data!
 
 ![A turntable](./images/turntable.jpg)
 
@@ -21,8 +21,8 @@ In this series of lessons, you will discover new ways to analyze data using clus
 
 ## Credits
 
-These lessons were written with 🎶 by [Jen Looper](https://www.twitter.com/jenlooper) with helpful reviews by [Rishit Dagli](https://rishit_dagli) and [Muhammad Sakib Khan Inan](https://twitter.com/Sakibinan).
+These lessons were written with 🎶 by [Jen Looper](https://www.twitter.com/jenlooper) with helpful reviews by [Muhammad Sakib Khan Inan](https://twitter.com/Sakibinan).
 
 The [Nigerian Songs](https://www.kaggle.com/sootersaalu/nigerian-songs-spotify) dataset was sourced from Kaggle as scraped from Spotify.
 
-Useful K-Means examples that aided in creating this lesson include this [iris exploration](https://www.kaggle.com/bburns/iris-exploration-pca-k-means-and-gmm-clustering), this [introductory notebook](https://www.kaggle.com/prashant111/k-means-clustering-with-python), and this [hypothetical NGO example](https://www.kaggle.com/ankandash/pca-k-means-clustering-hierarchical-clustering).
+Useful K-Means examples that aided in creating this lesson include this [iris exploration](https://www.kaggle.com/bburns/iris-exploration-pca-k-means-and-gmm-clustering), this [introductory notebook](https://www.kaggle.com/prashant111/k-means-clustering-with-python), and this [hypothetical NGO example](https://www.kaggle.com/datasets/vipulgohel/clustering-pca-assignment).
