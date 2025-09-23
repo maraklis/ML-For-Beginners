@@ -26,7 +26,9 @@ def main():
     exclude_dirs = {".ipynb_checkpoints", ".venv", "venv", "env", ".env", "site-packages"}
     notebooks = [
         p for p in ROOT.rglob("*.ipynb")
+        # skip virtualenvs, checkpoint dirs, and any already-executed notebooks
         if not any(part in exclude_dirs for part in p.parts)
+        and ".executed" not in p.name
     ]
     failures = []
     for nb in sorted(notebooks):
