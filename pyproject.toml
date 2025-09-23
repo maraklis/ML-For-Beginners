@@ -25,6 +25,7 @@ dependencies = [
     # "pygame",
     "textblob==0.17.1",
     "nbclient>=0.10.2",
+    "gradio>=5.46.1",
 ]
 
 [dependency-groups]
