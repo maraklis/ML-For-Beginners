@@ -16,37 +16,57 @@ Codespaces is **available for free to students** as part of the GitHub Student D
 
 **Safer:** Complete the exercises on your own or with a group on **[Google Colab](https://colab.research.google.com/github/SMC-AAU-CPH/ML-For-Beginners/blob/main/ "Repo on Google Colab")**.
 
-**Safest:** *Fork* or clone (with --depth=1) the entire repo and complete the exercises on your own or with a group locally on VS Code.
+**Safest:** *Fork* or clone (with --depth=1) the entire repo and complete the exercises on your own or with a group locally on VS Code. You must have Visual Studio Code, python, and git installed. If not, we *recommend* package managers: On macOS [homebrew](https://brew.sh), on Linux [apt](https://linuxize.com/post/how-to-use-apt-command), and on Windows [winget](https://learn.microsoft.com/en-us/windows/package-manager/).
 
 ```
 git clone --depth=1 https://github.com/SMC-AAU-CPH/ML-For-Beginners.git
 cd ML-For-Beginners
 ```
 
-  *Recommendation*: use [uv](https://docs.astral.sh/uv/ "uv docs") for package / dependency / tool management. We now provide a [pyproject.toml ](./pyproject.toml)to get you started:
+After this `pip install -r requirements.txt `would install all the packages and you'd be up and running. 
 
-   **On macOS/Linux (via shell):**
+***Recommendation***: use [uv](https://docs.astral.sh/uv/ "uv docs") for package / dependency / tool management instead. We now provide a [pyproject.toml ](./pyproject.toml)to get you started:
+
+**On macOS/Linux (via shell):**
 
 ```
 curl -LsSf https://astral.sh/uv/install.sh | sh
-
 ```
 
-   **On Windows (via PowerShell as Administrator):**
+  or if you use hombrew (also on Linux)
+
+`brew install uv`
+
+**On Windows (via PowerShell):**
 
 ```
 irm https://astral.sh/uv/install.ps1 | iex
 
 ```
-Then, assuming you have VS Studio Code (or any other IDE) installed,
+
+or if you use [winget](https://learn.microsoft.com/en-us/windows/package-manager/)
+
+install the entire toolchain (erase what you already have):
+
+```
+winget install --id Git.Git -e --source winget
+winget install --id Microsoft.VisualStudioCode -e --source winget
+winget install --id Python.Python.3 -e --source winget
+winget install --id=astral-sh.uv -e
+```
+
+##### Finalizing uv on all platforms
+
+Then, assuming you are at the ML-For-Beginners root folder
 
 ```
 uv sync
 code . 
 ```
 
-Select from any notebook.ipynb the uv kernel (Select-kernel/PythonEnvironments/ml-for-beginners, usually starred). You are good to code.
+Select from any notebook.ipynb the uv kernel (Select-kernel/PythonEnvironments/ml-for-beginners, usually starred). You are good to code and machine learn.
 
+##### Suggested activities
 
 In any case
 
