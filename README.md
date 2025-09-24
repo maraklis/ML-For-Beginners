@@ -23,7 +23,7 @@ git clone --depth=1 https://github.com/SMC-AAU-CPH/ML-For-Beginners.git
 cd ML-For-Beginners
 ```
 
-After this `pip install -r requirements.txt `would install all the packages and you'd be up and running. 
+After this `pip install -r requirements.txt `would install all the packages and you'd be up and running.
 
 ***Recommendation***: use [uv](https://docs.astral.sh/uv/ "uv docs") for package / dependency / tool management instead. We now provide a [pyproject.toml ](./pyproject.toml)to get you started:
 
@@ -39,8 +39,9 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 
 **On Windows (via PowerShell):**
 
-```
-irm https://astral.sh/uv/install.ps1 | iex
+```powershell
+irm https://astral.sh/uv/install.ps1 | iex # or if you get permission errors:
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
 
 ```
 

@@ -355,6 +355,7 @@ MigrationBackup/
 
 # Mac-specific
 .DS_Store
+/6-NLP/data/Hotel_Reviews.csv
 /10-Workshop/E1-0-AgeClass/
 /10-Workshop/E1-1-age-classification/
 *.org
@@ -367,3 +368,6 @@ MigrationBackup/
 /6-NLP/images/Hotel_Reviews_Filtered.csv
 /6-NLP/images/Hotel_Reviews_NLP.csv
 *.executed.ipynb
+*.pkl
+*.pickle
+/results/*
