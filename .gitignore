@@ -371,3 +371,4 @@ MigrationBackup/
 *.pkl
 *.pickle
 /results/*
+courseid_55991_participants.csv

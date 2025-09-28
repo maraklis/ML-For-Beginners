@@ -26,6 +26,8 @@ dependencies = [
     "textblob==0.17.1",
     "nbclient>=0.10.2",
     "gradio>=5.46.1",
+    "tensorflow>=2.20.0",
+    "edgeimpulse>=1.0.18",
 ]
 
 [dependency-groups]
