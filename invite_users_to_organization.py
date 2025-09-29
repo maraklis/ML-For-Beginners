@@ -3,6 +3,7 @@ import csv
 import requests
 import getpass
 
+# v1/api-login
 # --- Login and JWT token retrieval ---
 def studio_login(username, password, studio_api_url="studio.edgeimpulse.com"):
     api_url = f"https://{studio_api_url}/v1/api-login"

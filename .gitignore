@@ -372,3 +372,6 @@ MigrationBackup/
 *.pickle
 /results/*
 courseid_55991_participants.csv
+
+# Local secrets (do not commit)
+secrets.json
